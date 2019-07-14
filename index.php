@@ -6,7 +6,7 @@
 	<body>
 		<?php
 			echo("lalaa");
-			phpinfo();
+			//phpinfo();
 			
 		?>	
 	</body>
